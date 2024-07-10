@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    margin: 50px 400px;
+}
+
+.container{
+    background-color: blueviolet;
+    width: 75%;
+    padding: 50px;
+    border: none;
+}
+
+legend{
+    background-color: grey;
+    color: white;
+}
+.row{
+    padding: 50px;
+    background-color: rgb(4, 4, 57);
+    color: white;
+    font-size: 20px;
+}
+
+.box2,.box3{
+    text-decoration:line-through;
+    color: grey;
+}
+
